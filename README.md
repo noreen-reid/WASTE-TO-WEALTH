@@ -58,10 +58,17 @@ The **Dandora Dumpsite** in Nairobi is a severe environmental and public health 
 
 | Stack         | Purpose                                  |
 |---------------|------------------------------------------|
+
+| **Flutter**   | Cross-platform mobile development        |
+| **Dart**      | Programming language for Flutter         |
+| **AI/ML**     | Waste recognition (conceptual, e.g., TensorFlow Lite) |
+| **Firebase**  | Backend, auth, and marketplace data (conceptual) |
+
 | **Flutter** | Cross-platform mobile development        |
 | **Dart** | Programming language for Flutter         |
 | **AI/ML** | Waste recognition (conceptual, e.g., TensorFlow Lite) |
 | **Firebase** | Backend, auth, and marketplace data (conceptual) |
+
 
 ---
 
